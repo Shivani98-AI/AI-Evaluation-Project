@@ -1,0 +1,15 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore Secret API Keys
+.env
+
+# Ignore Python Cache Files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS System Files
+.DS_Store
